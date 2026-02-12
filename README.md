@@ -2,7 +2,7 @@
 # 👋 Hey there! I'm Đại Huỳnh
 
 <div align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Geist+Mono&size=32&duration=3000&pause=1000&color=0EA5E9&center=false&vCenter=true&width=700&lines=FullStack+Developer;Đại Huỳnh;Welcome!!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Geist+Mono&size=32&duration=3000&pause=1000&color=0EA5E9&center=false&vCenter=true&width=700&lines=FullStack+Developer;Đại+Huỳnh;Welcome!!" alt="Typing Animation" />
 </div>
 
 <p align="left">
