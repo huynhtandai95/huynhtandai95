@@ -17,7 +17,7 @@
 
 ## ✨ About Me
 
-☕ Turning coffee into **clean, maintainable, and scalable backend systems**.  
+ 
 💻 Passionate about **building full-stack web apps** that blend performance with delightful UX.
 
 - 🌱 Currently exploring **Frontend Development & Next.js**
